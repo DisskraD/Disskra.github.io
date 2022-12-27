@@ -1,6 +1,6 @@
 Uesr-agent:*
 Allow:/
 Disallow:/
-Disallow:/
-Sitemap:
-Host:
+Disallow: https://disskrad.github.io/admin.html
+Sitemap: https://disskrad.github.io/Sitemap.xml
+Host: https://disskrad.github.io/
