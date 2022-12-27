@@ -1,0 +1,6 @@
+Uesr-agent:*
+Allow:/
+Disallow:/
+Disallow:/
+Sitemap:
+Host:
